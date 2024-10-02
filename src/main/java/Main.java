@@ -49,7 +49,6 @@ public class Main {
     }
 }
 
-
 abstract class Person{
     protected String name;
     protected int age;
